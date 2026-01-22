@@ -1,0 +1,7 @@
+{
+  "name": "Chef's Compass",
+  "description": "An AI-powered dinner coach that helps you decide, plan, and cook meals tailored to your dietary needs and time constraints, complete with AI illustrations and a guided audio experience.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
